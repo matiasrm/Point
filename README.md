@@ -1,5 +1,5 @@
 # Point
-A Todo list app. SwiftUI with a MVVM architecture pattern. 
+A Todo list app. SwiftUI with an MVVM architecture pattern. 
 
 
  
